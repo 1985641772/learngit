@@ -1,6 +1,8 @@
 I'm add this line.
 Git is a mutable index called stage.
-Git tracks changes.
+
+
+Git tracks changes of files.
 
 
 
